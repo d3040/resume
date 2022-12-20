@@ -54,11 +54,12 @@ Experiencia de trabajo
 
     - Python
     - HTML, CSS & JS
-    - SQL
-    - Git
-    - Inglés: B2 (615 TOEFL - 2018)
-    - |icon-salesforce| `Trailblazer.me <https://trailblazer.me/id/d3040>`_
+    - Sphinx para documentación
+    - C1 en inglés
 
+..     
+    - Proficient in english.
+    - |icon-salesforce| `Trailblazer.me <https://trailblazer.me/id/d3040>`_
 
 .. sidebar:: Soft Skills
 
@@ -66,7 +67,6 @@ Experiencia de trabajo
     - Creativo
     - Comunicación efectiva
     - Enfoque a resultados
-    - Trabajo colaborativo
 
 Líder de Selectividad
 ^^^^^^^^^^^^^^^^^^^^^
