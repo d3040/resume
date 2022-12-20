@@ -54,7 +54,7 @@ Experiencia de trabajo
 
     - Python
     - HTML, CSS & JS
-    - Sphinx para documentación
+    - Sphinx (Python doc. gen.)
     - C1 en inglés
 
 ..     
