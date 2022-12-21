@@ -41,7 +41,7 @@ Daniel Clavijo
         :width: 15%
         :class: no-scaled-link
 
-    Busco un ambiente de colaboración que impulse la creatividad y la continua búsqueda de conocimiento para generar un impacto positivo en el entorno.
+    Busco un ambiente de colaboración que impulse la creatividad y la continua búsqueda de conocimiento para generar un :emphasis:`impacto positivo` en el :emphasis:`entorno`.
 
 .. Analizar el entorno, documentarlo y crear herramientas a través de la web, impactar a la sociedad de forma positiva.
 
