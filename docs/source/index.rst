@@ -55,7 +55,7 @@ Experiencia de trabajo
     - Python
     - HTML, CSS & JS
     - Sphinx (Python doc. gen.)
-    - C1 en inglés
+    - Inglés (C1)
 
 ..     
     - Proficient in english.
