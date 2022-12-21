@@ -63,6 +63,10 @@ svg {
   padding: 0 0 0 6px !important;
 }
 
+.sidebar p {
+    font-weight: 500;
+}
+
 .abstract {
     max-width: 100% !important;
     width: 100% !important;
