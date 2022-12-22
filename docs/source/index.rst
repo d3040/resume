@@ -73,14 +73,14 @@ Líder de Selectividad
 
 :emphasis:`2019 - Presente`, Tec de Monterrey (ITESM)
 
-* Coordinación de un equipo de 3 personas para analizar perfiles de candidatos que desean ingresar al Tec de Monterrey.
+* Coordinación del equipo encargado de la captura y recopilación de expedientes de admisión, y análisis de perfiles de candidatos de nuevo ingreso al Tec de Monterrey.
 * Experto de Área de la región Centro Sur:
 
   - Power User de CRM de Salesforce en el área de Selectividad.
   - Capacitador de colaboradores en 7 campus.
 
-Análisis de Datos
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Análista de Datos
+^^^^^^^^^^^^^^^^^
 
 :emphasis:`2013 - 2019`, Tec de Monterrey (ITESM)
 
