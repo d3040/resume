@@ -116,7 +116,7 @@ Ingeniería en Tecnologías Electrónicas (ITE)
 
 * Prácticas profesionales en la Planta Nuclear de CFE Laguna Verde.
 * Resultado sobresaliente en CENEVAL.
-* Secretario de la Sociedad Estudiantil de Ingeniería en TecnologíasElectrónicas.
+* Secretario de la Sociedad Estudiantil de Ingeniería en Tecnologías Electrónicas.
 
 ----
 
