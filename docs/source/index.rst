@@ -79,7 +79,7 @@ Líder de Selectividad
   - Power User de CRM de Salesforce en el área de Selectividad.
   - Capacitador de colaboradores en 7 campus.
 
-Especialista de Atracción
+Análisis de Datos
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 :emphasis:`2013 - 2019`, Tec de Monterrey (ITESM)
@@ -93,7 +93,7 @@ Especialista de Atracción
 
   - Capacitador de colaboradores de 5 campus y 12 sedes.
 
-* Operación de call-center regional.
+* Supervisor de operación de call-center regional.
 
 ----
 
