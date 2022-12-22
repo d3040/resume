@@ -79,7 +79,7 @@ Líder de Selectividad
   - Power User de CRM de Salesforce en el área de Selectividad.
   - Capacitador de colaboradores en 7 campus.
 
-Análista de Datos
+Analista de Datos
 ^^^^^^^^^^^^^^^^^
 
 :emphasis:`2013 - 2019`, Tec de Monterrey (ITESM)
