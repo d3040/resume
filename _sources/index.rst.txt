@@ -105,7 +105,7 @@ Maestría en Ciencias con Especialidad en Sistemas Inteligentes (MIT)
 
 :emphasis:`2019`, Tec de Monterrey (ITESM)
 
-* Clasificación de espacios urbanos a gran escala a partir de un estudio de percepción y datos del INEGI de la ciudad de Puebla, SanPedro Cholula y San Andrés Cholula. (Tesis). |link-thesis|
+* Clasificación de espacios urbanos a gran escala a partir de un estudio de percepción y datos del INEGI de la ciudad de Puebla, San Pedro Cholula y San Andrés Cholula. (Tesis). |link-thesis|
 * Expositor en la 4ta Conferencia Internacional de `Smart Data y Smart Cities en Kuala Lumpur, Malasia (octubre 2019). <https://www.geoinfo.utm.my/geospatial2019/>`_ |link-article|
 
 
