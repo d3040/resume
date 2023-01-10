@@ -42,9 +42,8 @@ Daniel Clavijo
 
 .. container:: abstract
 
-    .. image:: img/my_picture.jpg
+    .. image:: img/my_picture2.jpg
         :alt: Mi foto de perfil
-        :width: 15%
         :class: no-scaled-link
 
     Busco un ambiente de colaboración que impulse la creatividad y la continua búsqueda de conocimiento para generar un :strong:`impacto positivo` en el :strong:`entorno`.
