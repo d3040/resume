@@ -40,24 +40,23 @@ Daniel Clavijo
 
 .. sidebar:: Soft Skills
 
-    - Pensamiento crítico
-    - Creativo
+    - Pensamiento crítico / creativo
     - Comunicación efectiva
     - Enfoque a resultados
     - Learner's mindset
 
-.. sidebar:: Herramientas
+.. sidebar:: Proyectos personales
 
+    - `Un estudio de percepción urbana <#>`_
     - `Mi sitio <http://www.d3040.com>`_
     - `Github <https://github.com/d3040>`_
+
+.. sidebar:: Herramientas
+
     - `HTML, CSS & JS <#>`_
     - `Python <#>`_
     - Sphinx (Python doc. gen.)
     - Inglés (C1)
-
-.. sidebar:: Proyectos personales
-
-    - `Un estudio de percepción urbana <#>`_
 
 .. raw:: html
 
