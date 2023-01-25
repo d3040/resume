@@ -75,7 +75,7 @@ svg {
     max-width: 800px;
     min-width: 360px;
     text-align: center !important;
-    font-size: 1.6em !important;
+    font-size: 1.4em !important;
 }
 
 .abstract img {
@@ -148,17 +148,70 @@ svg {
 
 /* printing options */
 @media print {
-    .sidebar {
-        width: 25% !important;
+
+    /*
+    | print settings:
+    |
+    | - destination: save to PDF // (96px for PPI or DPI)
+    | - paper size: A4
+    | - scale: fit to page width
+    | - margins: none
+    | - browser: firefox
+    | 
+    | use the class no-print to select which sections will
+    | not be included in the printed result.
+    |
+    */
+
+    /* delete when ready */
+    * {
+        border: 1px solid black !important;
+    }
+    /********************/
+
+    .container-xl {
+        width: 100% !important;
     }
 
-    .footer-content, header {
-        display: none;
+    /* title container */
+    .jb-print-docs-body {
+        width: 100% !important;
     }
 
-    .version-digital p {
+    #main-content{
+        width: 90% !important;
+        margin: auto !important;
+    }
+
+    h2 {
+        margin: 1.05rem 0 !important;
+    }
+
+    .rubric, ul {
+        margin-bottom: 0 !important;
+    }
+
+    .abstract p {
+        width: 80%;
+    }
+
+    .abstract img {
+        margin-top: 0 !important;
+    }
+
+    .abstract {
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .footer-content, header, hr {
+        display: none !important;
+    }
+
+    .digital-version {
       font-size: 12px;
-      position: absolute;
-      right: 0;
+      width: 271px !important;
+      float: right;
     }
 }

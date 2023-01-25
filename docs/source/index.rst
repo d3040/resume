@@ -34,7 +34,7 @@ Daniel Clavijo
         :alt: Mi foto de perfil
         :class: no-scaled-link
 
-    Busco un ambiente de colaboración que impulse la creatividad y la continua búsqueda de conocimiento para generar un :strong:`impacto positivo` en el :strong:`entorno`.
+    Construir un ambiente que impulse la creatividad y la continua búsqueda de conocimiento para entender mejor nuestro entorno y así transformalo en un espacio más equilibrado, mejor organizado y más inteligente.
 
 .. rubric:: |icon-email| daniel.clavijo@proton.me
 
@@ -127,6 +127,6 @@ Donador altruista de sangre
 
 * 13+ donaciones de sangre.  
 
-.. container:: onlyprint version-digital
+.. container:: onlyprint digital-version
 
   Visita la versión digital en `d3040.github.io/resume/ <https://d3040.github.io/resume/>`_
