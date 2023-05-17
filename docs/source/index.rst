@@ -47,8 +47,8 @@ Daniel Clavijo
 
 .. sidebar:: Proyectos personales
 
-    - `Un estudio de percepción urbana <#>`_
     - `Mi sitio <http://www.d3040.com>`_
+    - `Un estudio de percepción urbana <#>`_
     - `Github <https://github.com/d3040>`_
 
 .. sidebar:: Herramientas

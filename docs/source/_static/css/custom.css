@@ -163,12 +163,6 @@ svg {
     |
     */
 
-    /* delete when ready */
-    * {
-        border: 1px solid black !important;
-    }
-    /********************/
-
     .container-xl {
         width: 100% !important;
     }
