@@ -4,7 +4,7 @@
 
 .. title:: Resume
 
-.. meta::
+.. meta:: 
    :keywords: d3040 Daniel Clavijo Resume CV
    :keywords lang=en: d3040 Daniel Clavijo Resume CV
    :keywords lang=es: d3040 Daniel Clavijo Resume CV
