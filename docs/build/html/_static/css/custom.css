@@ -1,0 +1,211 @@
+@font-face {
+    font-family: 'zilla slab';
+    src: url('../fonts/Zilla_Slab/ZillaSlab-Regular.otf');
+}
+
+@font-face {
+    font-family: 'zilla slab highlight bold';
+    src: url('../fonts/Zilla_Slab/ZillaSlabHighlight-Bold.otf');
+}
+
+/* mobile first! & basic styling... */
+
+body,h1,h2,h3,h4,h5,h6,p {
+    font-family: 'zilla slab' !important;
+}
+
+h2 {
+    margin-top: 0 !important;
+}
+
+h3, p {
+  margin: 0 !important;
+}
+
+/* align icons with text */
+svg {
+    margin-top: -3px;
+}
+
+.container-xl {
+    max-width: 1100px !important;
+}
+
+.content-container {
+    padding: 0 15px !important;
+}
+
+#main-content {
+    max-width: 100% !important;
+}
+
+#print-main-content, #site-navigation {
+    display: none;
+}
+
+.bd-toc {
+    width: 25% !important;
+    min-width: 200px !important;
+    border-right: 1px solid #eee !important;
+}
+
+.bd-toc nav li.active > a.active {
+    font-weight: 400 !important;
+}
+
+/* make pdf download button fill the entire space */
+.headerbtn__text-container {
+    width: 7rem;
+}
+
+#daniel-clavijo > h2 {
+    margin-bottom: 5px !important;
+}
+
+.abstract {
+    max-width: 100% !important;
+    width: 100% !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.abstract p {
+    max-width: 800px;
+    min-width: 360px;
+    text-align: center !important;
+    font-size: 1.4em !important;
+}
+
+.abstract img {
+    margin-top: 25px !important;
+    width: 190px;
+}
+
+.rubric {
+    font-weight: 500 !important;
+    margin: 10px auto !important;
+    text-align: right;
+}
+
+.rubric a {
+    margin-right: 10px;
+}
+
+.sidebar {
+    background-color: white !important;
+    margin: 0 0 10px 10px !important;
+    width: 100% !important;
+    border: none !important;
+}
+
+.sidebar-title {
+    font-family: 'zilla slab highlight bold' !important;
+    font-weight: 500 !important;
+}
+
+.sidebar ul {
+  padding: 0 0 0 6px !important;
+}
+
+#skill-div {
+    clear: both;
+}
+
+.header-article-main {
+    border-left: 1px solid #eee !important;
+}
+
+/* 1st threshold */
+@media (min-width: 769px) {
+    hr {
+        margin-left: 0;
+        width: 70%;
+    }
+
+    .abstract{
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .abstract p {
+        text-align: right !important;
+    }
+
+    .rubric {
+        margin: -27px 0 1.05rem 0 !important;
+    }
+
+    .sidebar {
+        width: 25% !important;
+    }
+
+    #skill-div {
+        display: none;
+    }
+}
+
+/* printing options */
+@media print {
+
+    /*
+    | print settings:
+    |
+    | - destination: save to PDF // (96px for PPI or DPI)
+    | - paper size: A4
+    | - scale: fit to page width
+    | - margins: none
+    | - browser: firefox
+    | 
+    | use the class no-print to select which sections will
+    | not be included in the printed result.
+    |
+    */
+
+    .container-xl {
+        width: 100% !important;
+    }
+
+    /* title container */
+    .jb-print-docs-body {
+        width: 100% !important;
+    }
+
+    #main-content{
+        width: 90% !important;
+        margin: auto !important;
+    }
+
+    h2 {
+        margin: 1.05rem 0 !important;
+    }
+
+    .rubric, ul {
+        margin-bottom: 0 !important;
+    }
+
+    .abstract p {
+        width: 80%;
+    }
+
+    .abstract img {
+        margin-top: 0 !important;
+    }
+
+    .abstract {
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .footer-content, header, hr {
+        display: none !important;
+    }
+
+    .digital-version {
+      font-size: 12px;
+      width: 271px !important;
+      float: right;
+    }
+}
