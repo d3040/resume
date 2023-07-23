@@ -125,7 +125,7 @@ Donador altruista de sangre
 
 :emphasis:`2014 - Presente`
 
-* 13+ donaciones de sangre.  
+* 14+ donaciones de sangre.  
 
 .. container:: onlyprint digital-version
 
