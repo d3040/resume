@@ -10,10 +10,6 @@
    :keywords lang=es: d3040 Daniel Clavijo Resume CV
    :description: Daniel Clavijo Resume
 
-.. |icon-email| raw:: html
-
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.75 2A1.75 1.75 0 000 3.75v.736a.75.75 0 000 .027v7.737C0 13.216.784 14 1.75 14h12.5A1.75 1.75 0 0016 12.25v-8.5A1.75 1.75 0 0014.25 2H1.75zM14.5 4.07v-.32a.25.25 0 00-.25-.25H1.75a.25.25 0 00-.25.25v.32L8 7.88l6.5-3.81zm-13 1.74v6.441c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V5.809L8.38 9.397a.75.75 0 01-.76 0L1.5 5.809z"></path></svg>
-
 .. |link-thesis| raw:: html
 
     <a href="http://hdl.handle.net/11285/633082" target="_"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></a>
@@ -25,42 +21,45 @@
 Data Analyst / Web Developer
 ============================
 
+.. toctree::
+   :hidden:
+
+   projects
+   certificates
+   publications
+   
 Daniel Clavijo
 --------------
 
-.. container:: abstract 
+.. container:: margin no-style-list
+  
+   - daniel.clavijo@proton.me
+   - `Sitio web <https://d3040.com/>`_
+   - México
 
-    .. image:: img/my_picture3.jpg
-        :alt: Mi foto de perfil
-        :class: no-scaled-link
+.. container:: abstract  
+    
+    Me apasiona el desarrollo web y el urbanismo. Me dedico a organizar procesos, generar ideas y unir personas. Creo en la WEB como medio para promover la libertad de expresión, y como herramienta para borrar fronteras (mezclar culturas).
 
-    Me apasiona el desarrollo web, la programación y el urbanismo. Veo el aprendizaje como una actividad continua, me gusta organizar procesos, generar ideas y unir personas. Creo en la WEB como el espacio donde se borran fronteras y se mezclan culturas, y como medio para alcanzar la libertad de expresión.
+.. container:: margin
+   
+   Soft Skills:
+    
+   * Pensamiento crítico / creativo
+   * Comunicación efectiva
+   * Enfoque a resultados
+   * Learner's mindset
 
-.. rubric:: |icon-email| daniel.clavijo@proton.me
+.. container:: margin
 
-.. sidebar:: Soft Skills
+   Herramientas:
+   
+   - `HTML, CSS & JS <#>`_
+   - `Python <#>`_
+   - `Inglés (C1) <#>`_
+   - Sphinx (Python doc. gen.)
 
-    - Pensamiento crítico / creativo
-    - Comunicación efectiva
-    - Enfoque a resultados
-    - Learner's mindset
-
-.. sidebar:: Proyectos personales
-
-    - `Mi sitio <http://www.d3040.com>`_
-    - `Un estudio de percepción urbana <#>`_
-    - `Github <https://github.com/d3040>`_
-
-.. sidebar:: Herramientas
-
-    - `HTML, CSS & JS <#>`_
-    - `Python <#>`_
-    - Sphinx (Python doc. gen.)
-    - Inglés (C1)
-
-.. raw:: html
-
-    <hr id="skill-div">
+----
 
 Experiencia de trabajo
 ----------------------
@@ -125,7 +124,7 @@ Donador altruista de sangre
 
 :emphasis:`2014 - Presente`
 
-* 14+ donaciones de sangre.  
+* 16+ donaciones de sangre.  
 
 .. container:: onlyprint digital-version
 

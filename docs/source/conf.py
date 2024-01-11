@@ -56,18 +56,24 @@ exclude_patterns = []
 #
 html_theme = 'sphinx_book_theme'
 html_theme_options = {
-    "single_page": True,
     "use_fullscreen_button": False,
     "toc_title": "Secciones",
+    "use_sidenotes": True,
     #"repository_url": "https://github.com/d3040/resume",
     #"use_repository_button": True,
     #"show_toc_level": 2,
     #"extra_navbar": "<p>test</p>"
     #"announcement": "My announcement!"
 }
-
-html_title = today_date
-#html_logo = "path/to/logo.png"
+html_sidebars =  {
+    #"**": [] # to disable left  sidebar
+    "home_page_in_toc": True,
+    "show_navbar_depth": 2,
+    "max_navbar_depth": 4,
+    "collapse_navbar": False,#True,
+}
+html_title = "d3040" #today_date
+html_logo = "img/my_picture3.jpg" #"beaver.png"
 html_favicon = "img/accessibility.svg"
 
 # Add any paths that contain custom static files (such as style sheets) here,
