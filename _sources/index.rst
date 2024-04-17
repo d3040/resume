@@ -124,7 +124,7 @@ Donador altruista de sangre
 
 :emphasis:`2014 - Presente`
 
-* 16+ donaciones de sangre.  
+* 17+ donaciones de sangre (última donación 2024-04-17).  
 
 .. container:: onlyprint digital-version
 
