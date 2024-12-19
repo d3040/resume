@@ -35,6 +35,20 @@ svg {
     list-style: none;    
 }
 
+.margin {
+    z-index: 0;
+    position: unset;
+    margin: auto !important;
+    width: 100% !important;
+}
+
+.margin > ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+
+
 .margin > p, .toctree-l1 {
     margin-bottom: .2em !important;
     font-size: 1.2em;
