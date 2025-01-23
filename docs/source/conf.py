@@ -58,8 +58,9 @@ exclude_patterns = []
 html_theme = 'sphinx_book_theme'
 html_theme_options = {
     "use_fullscreen_button": False,
-    "toc_title": "Secciones",
-    "use_sidenotes": True,
+    "secondary_sidebar_items": [],  # <--- an empty list here should prevent it from being rendered
+    #"toc_title": "Secciones",
+    #"use_sidenotes": True,
     #"repository_url": "https://github.com/d3040/resume",
     #"use_repository_button": True,
     #"show_toc_level": 2,
@@ -67,11 +68,12 @@ html_theme_options = {
     #"announcement": "My announcement!"
 }
 html_sidebars =  {
-    #"**": [] # to disable left  sidebar
-    "home_page_in_toc": True,
-    "show_navbar_depth": 2,
-    "max_navbar_depth": 4,
-    "collapse_navbar": False,#True,
+    #"**": ["globaltoc.html"],
+    "**": [], # to disable left  sidebar
+    #"home_page_in_toc": True,
+    #"show_navbar_depth": 2,
+    #"max_navbar_depth": 4,
+    #"collapse_navbar": True,
 }
 html_title = "d3040" #today_date
 html_logo = "img/my_picture3.jpg" #"beaver.png"

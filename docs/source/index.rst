@@ -18,8 +18,65 @@
 
   <a href="https://www.semanticscholar.org/paper/A-LARGE-SCALE-CLASSIFICATION-OF-PUBLIC-SPACES-USING-Ros-Cacho/0d3b0a77180f3f8b8cae2feccbb03d920ae70b41" target="_"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></a>
 
+.. |hr| raw:: html
+
+   <hr />
+
+.. sidebar:: 
+
+   .. rst-class:: title-section
+      
+      CONTACTO
+
+   * Puebla, México
+   * daniel.clavijo@proton.me
+   * `Sitio web <https://d3040.com/>`_
+   
+   .. rst-class:: title-section
+    
+      SKILLS
+   
+   :emphasis:`Soft Skills`
+
+   * Pensamiento crítico / creativo
+   * Comunicación efectiva
+   * Enfoque a resultados
+   * Learner's mindset
+
+   :emphasis:`Hard Skills`
+   
+   * `HTML, CSS & JS <#>`_
+   * `Python <#>`_
+   * Sphinx (Python doc. gen.)
+
+   :emphasis:`Lenguages`
+
+   * Español (Nativo) 
+   * Inglés (C1)
+   * Francés (-)
+
+   .. rst-class:: title-section
+
+      ESTUDIOS
+
+   | **Tec de Monterrey**
+   | Maestría en Ciencias
+   | Sistemas Inteligentes
+   | Puebla, México
+   | 2019
+
+   | **Tec de Monterrey**
+   | Ingeniería
+   | Tecnologías Electrónicas
+   | Puebla, México
+   | 2011
+
+==============
+Daniel Clavijo
+==============
+
 Data Analyst / Web Developer
-============================
+----------------------------
 
 .. toctree::
    :hidden:
@@ -27,42 +84,11 @@ Data Analyst / Web Developer
    projects
    certificates
    publications
-   
-Daniel Clavijo
---------------
-
-.. container:: margin no-style-list
-  
-   - daniel.clavijo@proton.me
-   - `Sitio web <https://d3040.com/>`_
-   - México
-
-.. container:: abstract  
-    
-    Me apasiona el desarrollo web y el urbanismo. Me dedico a organizar procesos, generar ideas y unir personas. Creo en la WEB como medio para promover la libertad de expresión, y como herramienta para borrar fronteras (mezclar culturas).
-
-.. container:: margin
-   
-   Soft Skills:
-    
-   * Pensamiento crítico / creativo
-   * Comunicación efectiva
-   * Enfoque a resultados
-   * Learner's mindset
-
-.. container:: margin
-
-   Herramientas:
-   
-   - `HTML, CSS & JS <#>`_
-   - `Python <#>`_
-   - `Inglés (C1) <#>`_
-   - Sphinx (Python doc. gen.)
-
-----
 
 Experiencia de trabajo
 ----------------------
+
+|hr|
 
 Líder de Selectividad
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -91,10 +117,10 @@ Analista de Datos
 
 * Supervisor de operación de call-center regional.
 
-----
+Experiencia previa
+------------------
 
-Estudios
---------
+|hr|
 
 Maestría en Ciencias con Especialidad en Sistemas Inteligentes (MIT)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
