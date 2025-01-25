@@ -1,6 +1,16 @@
+.. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ┏┓                    
+      ┃┃┏━━━┓┏━━━┓┏┓ ┏┓┏━━━┓ 
+    ┏━┛┃┃┏━┓┃┃┏━┓┃┃┃ ┃┃┃┏━┓┃ Daniel Clavijo
+    ┃┏┓┃┗┛┏┛┃┃┃ ┃┃┃┗━┛┃┃┃ ┃┃ 
+    ┃┗┛┃┏┓┗┓┃┃┗━┛┃┗━━┓┃┃┗━┛┃ 
+    ┗━━┛┃┗━┛┃┗━━━┛   ┃┃┗━━━┛ .com
+        ┗━━━┛        ┗┛
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. El formato utilizado para la creación de este CV se hizo a partir de
-    https://sphinx-themes.org/sample-sites/sphinx-book-theme/. Para ver las
-    adecuaciones realizadas visita: https://github.com/d3040/resume.
+   https://sphinx-themes.org/sample-sites/sphinx-book-theme/. Para ver las
+   adecuaciones realizadas visita: https://github.com/d3040/resume.
 
 .. title:: Resume
 
@@ -36,20 +46,26 @@
     
       SKILLS
    
-   :emphasis:`Soft Skills`
+   .. rst-class:: subtitle-section
+    
+      Soft Skills
 
    * Pensamiento crítico / creativo
    * Comunicación efectiva
    * Enfoque a resultados
    * Learner's mindset
 
-   :emphasis:`Hard Skills`
+   .. rst-class:: subtitle-section
+
+      Hard Skills
    
    * `HTML, CSS & JS <#>`_
    * `Python <#>`_
    * Sphinx (Python doc. gen.)
 
-   :emphasis:`Lenguages`
+   .. rst-class:: subtitle-section
+
+      Languages
 
    * Español (Nativo) 
    * Inglés (C1)
@@ -59,31 +75,24 @@
 
       ESTUDIOS
 
-   | **Tec de Monterrey**
+   | Tec de Monterrey (ITESM)
    | Maestría en Ciencias
-   | Sistemas Inteligentes
+   | Especialidad en Sistemas Inteligentes
    | Puebla, México
    | 2019
 
-   | **Tec de Monterrey**
+   | Tec de Monterrey (ITESM)
    | Ingeniería
    | Tecnologías Electrónicas
    | Puebla, México
    | 2011
 
-==============
+*******************************************************************************
 Daniel Clavijo
-==============
+*******************************************************************************
 
 Data Analyst / Web Developer
-----------------------------
-
-.. toctree::
-   :hidden:
-
-   projects
-   certificates
-   publications
+============================
 
 Experiencia de trabajo
 ----------------------
@@ -140,10 +149,10 @@ Ingeniería en Tecnologías Electrónicas (ITE)
 * Resultado sobresaliente en CENEVAL.
 * Secretario de la Sociedad Estudiantil de Ingeniería en Tecnologías Electrónicas.
 
-----
-
 Voluntariado
 ------------
+
+|hr|
 
 Donador altruista de sangre
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

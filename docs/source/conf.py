@@ -5,7 +5,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 # -- Path setup --------------------------------------------------------------
-
+#
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
@@ -13,20 +13,18 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
+# import pydata_sphinx_theme
 import datetime
-import pydata_sphinx_theme
 
 td = datetime.date.today()
 today_date = td.strftime('%Y%m%d')
 today_year = td.strftime('%Y')
+
 # -- Project information -----------------------------------------------------
 
 project = 'Resume'
-copyright = today_year + ', Daniel Clavijo'
 author = 'Daniel Clavijo'
-
-# The full version, including alpha/beta/rc tags
-release = '1'
+#copyright = today_year
 
 # -- General configuration ---------------------------------------------------
 
@@ -51,32 +49,25 @@ language = 'es'
 exclude_patterns = []
 
 # -- Options for HTML output -------------------------------------------------
-
+#
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
 html_theme = 'sphinx_book_theme'
 html_theme_options = {
+    # empty list should prevent from rendering right sidebar
+    "secondary_sidebar_items": [],
+    "repository_url": "https://github.com/d3040/resume",
+    "use_repository_button": True,
     "use_fullscreen_button": False,
-    "secondary_sidebar_items": [],  # <--- an empty list here should prevent it from being rendered
-    #"toc_title": "Secciones",
-    #"use_sidenotes": True,
-    #"repository_url": "https://github.com/d3040/resume",
-    #"use_repository_button": True,
-    #"show_toc_level": 2,
     #"extra_navbar": "<p>test</p>"
     #"announcement": "My announcement!"
 }
+
 html_sidebars =  {
-    #"**": ["globaltoc.html"],
     "**": [], # to disable left  sidebar
-    #"home_page_in_toc": True,
-    #"show_navbar_depth": 2,
-    #"max_navbar_depth": 4,
-    #"collapse_navbar": True,
 }
-html_title = "d3040" #today_date
-html_logo = "img/my_picture3.jpg" #"beaver.png"
+html_title = author
 html_favicon = "img/accessibility.svg"
 
 # Add any paths that contain custom static files (such as style sheets) here,
