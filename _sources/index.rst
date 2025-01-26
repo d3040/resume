@@ -81,11 +81,21 @@
    | Puebla, México
    | 2019
 
-   | Tec de Monterrey (ITESM)
-   | Ingeniería
-   | Tecnologías Electrónicas
-   | Puebla, México
-   | 2011
+   .. rst-class:: noprint
+   
+      | Tec de Monterrey (ITESM)
+      | Ingeniería
+      | Tecnologías Electrónicas
+      | Puebla, México
+      | 2011
+
+   .. rst-class:: title-section
+
+      VOLUNTARIADO
+
+   | Donador altruista de sangre
+   | 19+ donaciones de sangre
+   | 2024-12-19
 
 *******************************************************************************
 Daniel Clavijo
@@ -148,18 +158,6 @@ Ingeniería en Tecnologías Electrónicas (ITE)
 * Prácticas profesionales en la Planta Nuclear de CFE Laguna Verde.
 * Resultado sobresaliente en CENEVAL.
 * Secretario de la Sociedad Estudiantil de Ingeniería en Tecnologías Electrónicas.
-
-Voluntariado
-------------
-
-|hr|
-
-Donador altruista de sangre
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-:emphasis:`2014 - Presente`
-
-* 19+ donaciones de sangre (última donación 2024-12-19).  
 
 .. container:: onlyprint digital-version
 
