@@ -40,7 +40,7 @@
 
    * Puebla, México
    * daniel.clavijo@proton.me
-   * `Sitio web <https://d3040.com/>`_
+   * `d3040.com <https://d3040.com/>`_
    
    .. rst-class:: title-section
     
