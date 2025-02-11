@@ -2,7 +2,7 @@
 
 ## About
 
-This is a journey looking for the ultimate resume, no mess with the style, simple, neat... escalable. While in digital format you'll see your entire path, on the PDF (print option) you'll get a one-sheet résumé.
+This is a journey looking for the ultimate résumé, no mess with the style, simple, neat... **escalable**. While in digital format you'll see your entire path, on the PDF (print option) you'll get a one-sheet résumé.
 
 ## The Future
 
