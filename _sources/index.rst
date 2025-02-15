@@ -164,7 +164,7 @@ Experiencia previa
 
     03/2012 - 12/2012
 
-**Prácticas profesionales**, IC Planta Nuclear Laguna Verde, VER, MX.
+**Prácticas profesionales**, Laguna Verde, VER, MX.
 
 .. rst-class:: date-span
 
