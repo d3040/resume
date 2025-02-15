@@ -109,10 +109,19 @@ Experiencia de trabajo
 
 |hr|
 
-Líder de Selectividad
-^^^^^^^^^^^^^^^^^^^^^^^
+Instituto Tecnológico y de Estudios Superiores de Monterrey
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-:emphasis:`2019 - Presente`, Tec de Monterrey (ITESM)
+.. rst-class:: enterprise-description
+   
+   Universidad #4 de Latinoamérica y la #1 de México `(QS ranking) <https://www.topuniversities.com/latin-america-central-america-rankings>`_.
+
+Líder de Selectividad
+"""""""""""""""""""""
+
+.. rst-class:: date-span 
+
+    06/2019 - Presente
 
 * Coordinación del equipo encargado de la captura y recopilación de expedientes de admisión, y análisis de perfiles de candidatos de nuevo ingreso al Tec de Monterrey.
 * Experto de Área de la región Centro Sur:
@@ -121,9 +130,11 @@ Líder de Selectividad
   - Capacitador de colaboradores en 7 campus.
 
 Analista de Datos
-^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""
 
-:emphasis:`2013 - 2019`, Tec de Monterrey (ITESM)
+.. rst-class:: date-span
+
+    12/2013 - 06/2019
 
 * Análisis de datos dentro del departamento de Admisiones y Comunicación del Tec de Monterrey.
 
@@ -141,23 +152,44 @@ Experiencia previa
 
 |hr|
 
-Maestría en Ciencias con Especialidad en Sistemas Inteligentes (MIT)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Clasificación de Espacios Urbanos a Gran Escala**, tésis de maestría, Pue, MX.
 
-:emphasis:`2019`, Tec de Monterrey (ITESM)
+.. rst-class:: date-span
 
-* Clasificación de espacios urbanos a gran escala a partir de un estudio de percepción y datos del INEGI de la ciudad de Puebla, San Pedro Cholula y San Andrés Cholula. (Tesis). |link-thesis|
-* Expositor en la 4ta Conferencia Internacional de `Smart Data y Smart Cities en Kuala Lumpur, Malasia (octubre 2019). <https://www.geoinfo.utm.my/geospatial2019/>`_ |link-article|
+    06/2019
+
+**ISA Administrator**, T-Systems, Pue, MX.
+
+.. rst-class:: date-span
+
+    03/2012 - 12/2012
+
+**Instrumentación y Control (prácticas prof.)**, Planta Nuclear Laguna Verde, Ver, MX.
+
+.. rst-class:: date-span
+
+    08/2011 - 11/2011
 
 
-Ingeniería en Tecnologías Electrónicas (ITE)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-:emphasis:`2011`, Tec de Monterrey (ITESM)
+.. 
+    Maestría en Ciencias con Especialidad en Sistemas Inteligentes (MIT)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    
+    :emphasis:`2019`, Tec de Monterrey (ITESM)
 
-* Prácticas profesionales en la Planta Nuclear de CFE Laguna Verde.
-* Resultado sobresaliente en CENEVAL.
-* Secretario de la Sociedad Estudiantil de Ingeniería en Tecnologías Electrónicas.
+    * Clasificación de espacios urbanos a gran escala a partir de un estudio de percepción y datos del INEGI de la ciudad de Puebla, San Pedro Cholula y San Andrés Cholula. (Tesis). |link-thesis|
+    * Expositor en la 4ta Conferencia Internacional de `Smart Data y Smart Cities en Kuala Lumpur, Malasia (octubre 2019). <https://www.geoinfo.utm.my/geospatial2019/>`_ |link-article|
+
+
+    Ingeniería en Tecnologías Electrónicas (ITE)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+    :emphasis:`2011`, Tec de Monterrey (ITESM)
+
+    * Prácticas profesionales en la Planta Nuclear de CFE Laguna Verde.
+    * Resultado sobresaliente en CENEVAL.
+    * Secretario de la Sociedad Estudiantil de Ingeniería en Tecnologías Electrónicas.
 
 .. container:: onlyprint digital-version
 
