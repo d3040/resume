@@ -152,19 +152,19 @@ Experiencia previa
 
 |hr|
 
-**Clasificación de Espacios Urbanos a Gran Escala**, tésis de maestría, Pue, MX.
+**Tésis de maestría**, Sistemas Inteligentes -ITESM, PUE, MX.
 
 .. rst-class:: date-span
 
     06/2019
 
-**ISA Administrator**, T-Systems, Pue, MX.
+**ISA Administrator**, T-Systems, PUE, MX.
 
 .. rst-class:: date-span
 
     03/2012 - 12/2012
 
-**Instrumentación y Control (prácticas prof.)**, Planta Nuclear Laguna Verde, Ver, MX.
+**Prácticas profesionales**, IC Planta Nuclear Laguna Verde, VER, MX.
 
 .. rst-class:: date-span
 
