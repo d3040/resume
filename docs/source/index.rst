@@ -32,6 +32,10 @@
 
    <hr />
 
+.. container:: onlyprint digital-version
+
+  Visita la versión digital en `d3040.github.io/resume/ <https://d3040.github.io/resume/>`_
+
 .. sidebar:: 
 
    .. rst-class:: title-section
@@ -65,11 +69,11 @@
 
    .. rst-class:: subtitle-section
 
-      Languages
+      Idiomas
 
    * Español (Nativo) 
    * Inglés (C1)
-   * Francés (-)
+   * Francés (Básico)
 
    .. rst-class:: title-section
 
@@ -114,7 +118,7 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 
 .. rst-class:: enterprise-description
    
-   Universidad #4 de Latinoamérica y la #1 de México `(QS ranking) <https://www.topuniversities.com/latin-america-central-america-rankings>`_.
+   Universidad #4 de Latinoamérica y #1 de México `(QS ranking) <https://www.topuniversities.com/latin-america-central-america-rankings>`_.
 
 Líder de Selectividad
 """""""""""""""""""""
@@ -152,7 +156,13 @@ Experiencia previa
 
 |hr|
 
-**Tésis de maestría**, Sistemas Inteligentes -ITESM, PUE, MX.
+**Expositor** |link-article|, `Smart Data and Smart Cities <https://www.geoinfo.utm.my/geospatial2019/>`_, KL, MY.
+
+.. rst-class:: date-span
+
+    10/2019
+
+**Tésis de maestría** |link-thesis|, Sistemas Inteligentes (ITESM), PUE, MX.
 
 .. rst-class:: date-span
 
@@ -191,6 +201,4 @@ Experiencia previa
     * Resultado sobresaliente en CENEVAL.
     * Secretario de la Sociedad Estudiantil de Ingeniería en Tecnologías Electrónicas.
 
-.. container:: onlyprint digital-version
 
-  Visita la versión digital en `d3040.github.io/resume/ <https://d3040.github.io/resume/>`_
