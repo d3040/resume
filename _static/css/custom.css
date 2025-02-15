@@ -4,7 +4,12 @@
 }
 
 @font-face {
-    font-family: 'zilla slab light';
+    font-family: 'zilla slab italic';
+    src: url('../fonts/Zilla_Slab/ZillaSlab-RegularItalic.otf');
+}
+
+@font-face {
+    font-family: 'zilla slab light italic';
     src: url('../fonts/Zilla_Slab/ZillaSlab-LightItalic.otf');
 }
 
@@ -36,6 +41,7 @@ h2 {
 }
 
 h3 {
+    font-family: 'zilla slab highlight bold' !important;
     margin-top: 30px !important;
     font-size: 1.25em !important;
 }
@@ -86,7 +92,7 @@ section#daniel-clavijo ul {
 }
 
 .sidebar > .subtitle-section {
-    font-family: 'zilla slab highlight bold' !important;
+    font-family: 'zilla slab italic' !important;
 }
 
 .sidebar > ul {
@@ -94,7 +100,7 @@ section#daniel-clavijo ul {
 }
 
 .enterprise-description {
-    font-family: 'zilla slab light';
+    font-family: 'zilla slab light italic';
     font-size: 1.25em !important;
 }
 
@@ -126,19 +132,17 @@ section#daniel-clavijo ul {
         padding: 0px 3.5% 0 6.5% !important;
     }
 
+    section#daniel-clavijo {
+        width: 75% !important;
+        padding: 0 2% 0 0 !important;
+    }
+
     .sidebar {
         /*max-width: 250px ! important;*/
         width: 25% !important;
         height: 100% !important;
         margin: 0 !important;
         padding: 0 2% 2% !important; 
-    }
-
-    
-
-    section#daniel-clavijo {
-        width: 75% !important;
-        padding: 0 2% 0 0 !important;
     }
     
 }
@@ -160,43 +164,31 @@ section#daniel-clavijo ul {
     |
     */
 
-    .container-xl {
-        /*width: 100% !important;*/
-    }
-
-    /* title container */
-    #jb-print-docs-body {
-        /*width: 100% !important;*/
-        display: none !important;
-    }
-
-    #main-content{
-        /*width: 90% !important;
-        margin: auto !important;*/
-    }
-
-    h2 {
-        /*margin: 1.05rem 0 !important;*/
-    }
-    section#daniel-clavijo {
-        width: 70% !important;
-    }
-
     article {
         padding: 3.5% !important;
     }
 
-    .sidebar {
-        width: 30% !important;
-        /*height: calc(100vh - 44px) !important;
-        margin-top: 24px !important;*/
+    section#daniel-clavijo {
+        width: 70% !important;
+        padding: 0 2% 0 0 !important;
     }
 
-    .footer-content, header, hr {
-        /*display: none !important;*/
+    /* title container */
+    #jb-print-docs-body {
+        display: none !important;
+    }
+
+    .bd-main .bd-content {
+        margin-left: 0 !important;
+    }
+
+    .sidebar {
+        width: 30% !important;
     }
 
     .digital-version {
       font-size: .8em !important;
+      position: absolute;
+      bottom: 3.5% !important;
     }
 }
