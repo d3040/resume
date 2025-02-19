@@ -44,7 +44,8 @@
 
    * Puebla, México
    * daniel.clavijo@proton.me
-   * `d3040.com <https://d3040.com/>`_
+   * `www.d3040.com <https://d3040.com/>`_
+   * `LinkedIn <www.linkedin.com/in/d3040>`_
    
    .. rst-class:: title-section
     
@@ -54,7 +55,7 @@
     
       Soft Skills
 
-   * Pensamiento crítico / creativo
+   * Pensamiento creativo
    * Comunicación efectiva
    * Enfoque a resultados
    * Learner's mindset
@@ -63,8 +64,8 @@
 
       Hard Skills
    
-   * `HTML, CSS & JS <#>`_
-   * `Python <#>`_
+   * HTML, CSS & JS
+   * Python
    * Sphinx (Python doc. gen.)
 
    .. rst-class:: subtitle-section
@@ -80,7 +81,7 @@
       ESTUDIOS
 
    | Tec de Monterrey (ITESM)
-   | Maestría en Ciencias
+   | Maestría en Ciencias con
    | Especialidad en Sistemas Inteligentes
    | Puebla, México
    | 2019
@@ -127,29 +128,23 @@ Líder de Selectividad
 
     06/2019 - Presente
 
-* Coordinación del equipo encargado de la captura y recopilación de expedientes de admisión, y análisis de perfiles de candidatos de nuevo ingreso al Tec de Monterrey.
-* Experto de Área de la región Centro Sur:
+* Responsable de la admisión de candidatos de nuevo ingreso para los niveles de profesional y preparatoria para el Tec de Monterrey Campus Puebla.
+* Coordinación del equipo encargado de la captura de comprobantes de estudio de los solicitantes, profesores para la imparticación de talleres de familiarización y colaboradores certificados para la aplicación de exámenes de admisión. 
+* Comunicación continua y presentación de resultados en sesiones semanales con el director del campus y directores de área para la toma estratégica de decisiones. Además de las áreas de atracción y becas.
+* Adaptación *paperless* del proceso de admisión durante la pandemia COVID 19.
+* Automatización y generación de reportes del embudo comercial.
 
-  - Power User de CRM de Salesforce en el área de Selectividad.
-  - Capacitador de colaboradores en 7 campus.
 
-Analista de Datos
-"""""""""""""""""
+Alista de datos comerciales
+"""""""""""""""""""""""""""
 
 .. rst-class:: date-span
 
     12/2013 - 06/2019
 
-* Análisis de datos dentro del departamento de Admisiones y Comunicación del Tec de Monterrey.
-
-  - Creación de reportes y tableros de operación.
-  - Generación de estrategias de operación.
-
-* Power User de CRM de Salesforce en el área de Atracción.
-
-  - Capacitador de colaboradores de 5 campus y 12 sedes.
-
-* Supervisor de operación de call-center regional.
+* Power User Comercial del CRM de Salesforce de la región Centro Sur encargado de la capacitación y uso en 5 campus y 12 sedes del Tec de Monterrey.
+* Creación de reportes y tableros, y supervisor de operación de call-center regional.
+* Reconocimiento otorgado por Salvador Alva "Heores of the Year" en 2019 por la labor de incorporación del CRM de Salesforce en el Tec de Monterrey.
 
 Experiencia previa
 ------------------

@@ -163,9 +163,33 @@ section#daniel-clavijo ul {
     | not be included in the printed result.
     |
     */
+    h1 {
+        display: block !important;
+        font-size: 32px !important;
+    }
+
+    h2 {
+        font-size: 24px !important;
+    }
+
+    h3 {
+        font-size: 21px !important;
+    }
+
+    h4 {
+        font-size: 18px !important;
+    }
+
+    h5 {
+        font-size: 16px !important;
+    }
+
+    p {
+        font-size: 14px !important;
+    }
 
     article {
-        padding: 3.5% !important;
+        padding: 24px !important; /*3.5%*/
     }
 
     section#daniel-clavijo {
@@ -184,11 +208,16 @@ section#daniel-clavijo ul {
 
     .sidebar {
         width: 30% !important;
+        height: calc(100vh - 48px) !important;
     }
 
     .digital-version {
       font-size: .8em !important;
       position: absolute;
-      bottom: 3.5% !important;
+      bottom: 24px !important;
+    }
+
+    .enterprise-description {
+        font-size: 1em !important;
     }
 }
