@@ -55,7 +55,7 @@
     
       Soft Skills
 
-   * Pensamiento creativo
+   * Pensamiento crítico
    * Comunicación efectiva
    * Enfoque a resultados
    * Learner's mindset
@@ -66,6 +66,7 @@
    
    * HTML, CSS & JS
    * Python
+   * Git
    * Sphinx (Python doc. gen.)
 
    .. rst-class:: subtitle-section
@@ -103,7 +104,7 @@
    | 2024-12-19
 
 *******************************************************************************
-Daniel Clavijo
+Daniel Clavijo Plourde
 *******************************************************************************
 
 Data Analyst / Web Developer
@@ -135,8 +136,8 @@ Líder de Selectividad
 * Automatización y generación de reportes del embudo comercial.
 
 
-Alista de datos comerciales
-"""""""""""""""""""""""""""
+Analista de datos comerciales
+"""""""""""""""""""""""""""""
 
 .. rst-class:: date-span
 

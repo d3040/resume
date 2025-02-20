@@ -9,6 +9,11 @@
 }
 
 @font-face {
+    font-family: 'zilla slab bold';
+    src: url('../fonts/Zilla_Slab/ZillaSlab-Bold.otf');
+}
+
+@font-face {
     font-family: 'zilla slab light italic';
     src: url('../fonts/Zilla_Slab/ZillaSlab-LightItalic.otf');
 }
@@ -30,13 +35,17 @@ a {
     text-decoration: none !important;
 }
 
-h1, h2, h3, h4, p {
+h1, h2, h3, h4, h5, p {
+    font-family: 'zilla slab' !important;
     margin: 0 !important;
     padding: 0 !important;
 }
 
+h1 {
+    font-family: 'zilla slab bold' !important;
+}
+
 h2 {
-    font-weight: 300 !important;
     font-size: 1.5em !important;
 }
 
@@ -46,8 +55,18 @@ h3 {
     font-size: 1.25em !important;
 }
 
+h4 {
+    font-weight: 600 !important;
+}
+
 h5 {
-    margin-top: 1.05rem !important;    
+    margin: 1.05rem 0 !important;
+    font-weight: 600 !important;
+}
+
+p {
+   font-size: 1em !important;
+   line-height: 1.4em !important;
 }
 
 article {
@@ -58,13 +77,17 @@ footer {
     display: none !important;
 }
 
-section#daniel-clavijo ul {
+section#daniel-clavijo-plourde ul {
     padding-left: 5% !important;
 }
 
 .line-block {
     padding: 0 !important;
     font-size: .9em !important;
+}
+
+.line-block .line:first-child {
+    font-weight: 600 !important;
 }
 
 /* toogle primary sidebar */
@@ -84,6 +107,10 @@ section#daniel-clavijo ul {
     list-style: none;    
 }
 
+.sidebar > ul {
+    font-size: .8em !important;
+}
+
 .sidebar > .title-section {
     padding: 20px 0 !important;
     margin: 0 0 15px 0 !important;
@@ -95,8 +122,8 @@ section#daniel-clavijo ul {
     font-family: 'zilla slab italic' !important;
 }
 
-.sidebar > ul {
-    font-size: .8em !important;
+.sidebar p {
+    font-size: 1.1em !important;
 }
 
 .enterprise-description {
@@ -106,7 +133,8 @@ section#daniel-clavijo ul {
 
 #experiencia-de-trabajo .date-span {
     text-align: right;
-    margin-top: calc(-1.05rem - 1.6em) !important;
+    margin: calc(-1.05rem - 1.4em) 0 1.05rem !important;
+    font-weight: 600 !important;
 }
 
 #experiencia-de-trabajo > section > section {
@@ -116,6 +144,7 @@ section#daniel-clavijo ul {
 #experiencia-previa .date-span {
     text-align: right;
     margin-top: -1.65em !important;
+    font-weight: 600 !important;
 }
 
 /* 1st threshold */
@@ -132,7 +161,7 @@ section#daniel-clavijo ul {
         padding: 0px 3.5% 0 6.5% !important;
     }
 
-    section#daniel-clavijo {
+    section#daniel-clavijo-plourde {
         width: 75% !important;
         padding: 0 2% 0 0 !important;
     }
@@ -192,7 +221,7 @@ section#daniel-clavijo ul {
         padding: 24px !important; /*3.5%*/
     }
 
-    section#daniel-clavijo {
+    section#daniel-clavijo-plourde {
         width: 70% !important;
         padding: 0 2% 0 0 !important;
     }
