@@ -61,7 +61,7 @@ html_theme_options = {
     "use_repository_button": True,
     "use_fullscreen_button": False,
     #"extra_navbar": "<p>test</p>"
-    #"announcement": "My announcement!"
+    "announcement": "Para una mejor experiencia, considera revisar este résumé en dispositivos con una pantalla mayor a 796px de ancho."
 }
 
 html_sidebars =  {
