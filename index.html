@@ -20,29 +20,26 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
-    <link rel="stylesheet" type="text/css" href="_static/css/custom.css?v=87688638" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="_static/css/custom.css?v=3f4e768f" />
   
-  <!-- So that users can add custom icons -->
-  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="_static/documentation_options.js?v=78d55cf8"></script>
     <script src="_static/doctools.js?v=9bcbadda"></script>
@@ -56,7 +53,6 @@
     <link rel="search" title="Búsqueda" href="search.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="es"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -72,8 +68,19 @@
     <i class="fa-solid fa-arrow-up"></i>Volver arriba</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -81,6 +88,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search..."
          aria-label="Search..."
          autocomplete="off"
@@ -88,12 +96,15 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Advertencia de versión"></aside>
 </div>
+<aside class="bd-header-announcement" aria-label="Announcement">
+  <div class="bd-header-announcement__content">Para una mejor experiencia, considera revisar este résumé en dispositivos con una pantalla mayor a 796px de ancho.</div>
+</aside>
 
   
     <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
@@ -107,28 +118,8 @@
       
         
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar hide-on-wide">
+      <div class="bd-sidebar-primary bd-sidebar hide-on-wide">
         
-
-  
-  <div class="sidebar-header-items sidebar-primary__section">
-    
-    
-    
-    
-  </div>
-  
-  
-  <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
-  </div>
 
 
       </div>
@@ -224,16 +215,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Tema" data-bs-title="Tema"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Claro"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Oscuro"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="Sistema"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="claro/oscuro" aria-label="claro/oscuro" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Búsqueda" aria-label="Búsqueda" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Búsqueda" aria-label="Búsqueda" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -320,9 +319,9 @@
 <div class="line">Puebla, México</div>
 <div class="line">2019</div>
 </div>
-<div class="noprint line-block">
+<div class="line-block">
 <div class="line">Tec de Monterrey (ITESM)</div>
-<div class="line">Ingeniería</div>
+<div class="line">Ingeniería en</div>
 <div class="line">Tecnologías Electrónicas</div>
 <div class="line">Puebla, México</div>
 <div class="line">2011</div>
@@ -331,7 +330,6 @@
 <div class="line-block">
 <div class="line">Donador altruista de sangre</div>
 <div class="line">19+ donaciones de sangre</div>
-<div class="line">2024-12-19</div>
 </div>
 </aside>
 <section id="daniel-clavijo-plourde">
@@ -349,8 +347,9 @@
 <p class="date-span">06/2019 - Presente</p>
 <ul class="simple">
 <li><p>Responsable de la admisión de candidatos de nuevo ingreso para los niveles de profesional y preparatoria para el Tec de Monterrey Campus Puebla.</p></li>
-<li><p>Coordinación del equipo encargado de la captura de comprobantes de estudio de los solicitantes, profesores para la imparticación de talleres de familiarización y colaboradores certificados para la aplicación de exámenes de admisión.</p></li>
-<li><p>Comunicación continua y presentación de resultados en sesiones semanales con el director del campus y directores de área para la toma estratégica de decisiones. Además de las áreas de atracción y becas.</p></li>
+<li><p>Coordinación del equipo encargado de la gestión de solicitudes de admisión, profesores para la imparticación de talleres de familiarización y colaboradores certificados para la aplicación de exámenes de admisión.</p></li>
+<li><p>Sesiones semanales con el director del campus y directores de área para la toma estratégica de decisiones.</p></li>
+<li><p>Colaboración efectiva entre Selectividad y las áreas de Atracción y Becas.</p></li>
 <li><p>Adaptación <em>paperless</em> del proceso de admisión durante la pandemia COVID 19.</p></li>
 <li><p>Automatización y generación de reportes del embudo comercial.</p></li>
 </ul>
@@ -361,7 +360,7 @@
 <ul class="simple">
 <li><p>Power User Comercial del CRM de Salesforce de la región Centro Sur encargado de la capacitación y uso en 5 campus y 12 sedes del Tec de Monterrey.</p></li>
 <li><p>Creación de reportes y tableros, y supervisor de operación de call-center regional.</p></li>
-<li><p>Reconocimiento otorgado por Salvador Alva «Heores of the Year» en 2019 por la labor de incorporación del CRM de Salesforce en el Tec de Monterrey.</p></li>
+<li><p>«Heores of the Year» reconocimiento otorgado en 2019 por el Presidente del Tec de Monterrey Salvador Alva por la labor de incorporación del CRM de Salesforce en el área de atracción.</p></li>
 </ul>
 </section>
 </section>
@@ -375,6 +374,8 @@
 <p class="date-span">06/2019</p>
 <p><strong>ISA Administrator</strong>, T-Systems, PUE, MX.</p>
 <p class="date-span">03/2012 - 12/2012</p>
+<p><strong>Desempeño Sobresaliente</strong>, CENEVAL EGEL (Electrónica), MX.</p>
+<p class="date-span">9/2011</p>
 <p><strong>Prácticas profesionales</strong>, Laguna Verde, VER, MX.</p>
 <p class="date-span">08/2011 - 11/2011</p>
 </section>
@@ -435,8 +436,8 @@ Por Daniel Clavijo
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>

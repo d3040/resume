@@ -87,13 +87,11 @@
    | Puebla, México
    | 2019
 
-   .. rst-class:: noprint
-   
-      | Tec de Monterrey (ITESM)
-      | Ingeniería
-      | Tecnologías Electrónicas
-      | Puebla, México
-      | 2011
+   | Tec de Monterrey (ITESM)
+   | Ingeniería en
+   | Tecnologías Electrónicas
+   | Puebla, México
+   | 2011
 
    .. rst-class:: title-section
 
@@ -101,7 +99,8 @@
 
    | Donador altruista de sangre
    | 19+ donaciones de sangre
-   | 2024-12-19
+   
+   .. Última donación: 2024-12-19
 
 *******************************************************************************
 Daniel Clavijo Plourde
@@ -130,8 +129,9 @@ Líder de Selectividad
     06/2019 - Presente
 
 * Responsable de la admisión de candidatos de nuevo ingreso para los niveles de profesional y preparatoria para el Tec de Monterrey Campus Puebla.
-* Coordinación del equipo encargado de la captura de comprobantes de estudio de los solicitantes, profesores para la imparticación de talleres de familiarización y colaboradores certificados para la aplicación de exámenes de admisión. 
-* Comunicación continua y presentación de resultados en sesiones semanales con el director del campus y directores de área para la toma estratégica de decisiones. Además de las áreas de atracción y becas.
+* Coordinación del equipo encargado de la gestión de solicitudes de admisión, profesores para la imparticación de talleres de familiarización y colaboradores certificados para la aplicación de exámenes de admisión. 
+* Sesiones semanales con el director del campus y directores de área para la toma estratégica de decisiones. 
+* Colaboración efectiva entre Selectividad y las áreas de Atracción y Becas.
 * Adaptación *paperless* del proceso de admisión durante la pandemia COVID 19.
 * Automatización y generación de reportes del embudo comercial.
 
@@ -145,7 +145,7 @@ Analista de datos comerciales
 
 * Power User Comercial del CRM de Salesforce de la región Centro Sur encargado de la capacitación y uso en 5 campus y 12 sedes del Tec de Monterrey.
 * Creación de reportes y tableros, y supervisor de operación de call-center regional.
-* Reconocimiento otorgado por Salvador Alva "Heores of the Year" en 2019 por la labor de incorporación del CRM de Salesforce en el Tec de Monterrey.
+* "Heores of the Year" reconocimiento otorgado en 2019 por el Presidente del Tec de Monterrey Salvador Alva por la labor de incorporación del CRM de Salesforce en el área de atracción.
 
 Experiencia previa
 ------------------
@@ -170,31 +170,15 @@ Experiencia previa
 
     03/2012 - 12/2012
 
+**Desempeño Sobresaliente**, CENEVAL EGEL (Electrónica), MX.
+
+.. rst-class:: date-span
+
+    9/2011
+
 **Prácticas profesionales**, Laguna Verde, VER, MX.
 
 .. rst-class:: date-span
 
     08/2011 - 11/2011
-
-
-
-.. 
-    Maestría en Ciencias con Especialidad en Sistemas Inteligentes (MIT)
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    
-    :emphasis:`2019`, Tec de Monterrey (ITESM)
-
-    * Clasificación de espacios urbanos a gran escala a partir de un estudio de percepción y datos del INEGI de la ciudad de Puebla, San Pedro Cholula y San Andrés Cholula. (Tesis). |link-thesis|
-    * Expositor en la 4ta Conferencia Internacional de `Smart Data y Smart Cities en Kuala Lumpur, Malasia (octubre 2019). <https://www.geoinfo.utm.my/geospatial2019/>`_ |link-article|
-
-
-    Ingeniería en Tecnologías Electrónicas (ITE)
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-    :emphasis:`2011`, Tec de Monterrey (ITESM)
-
-    * Prácticas profesionales en la Planta Nuclear de CFE Laguna Verde.
-    * Resultado sobresaliente en CENEVAL.
-    * Secretario de la Sociedad Estudiantil de Ingeniería en Tecnologías Electrónicas.
-
 

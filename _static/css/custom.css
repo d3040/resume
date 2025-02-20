@@ -53,6 +53,7 @@ h3 {
     font-family: 'zilla slab highlight bold' !important;
     margin-top: 30px !important;
     font-size: 1.25em !important;
+    font-weight: 400 !important;
 }
 
 h4 {
@@ -112,7 +113,7 @@ section#daniel-clavijo-plourde ul {
 }
 
 .sidebar > .title-section {
-    padding: 20px 0 !important;
+    padding-bottom: 5px !important;
     margin: 0 0 15px 0 !important;
     border-bottom: 1px solid gray !important;
     font-weight: 600 !important;
@@ -171,7 +172,11 @@ section#daniel-clavijo-plourde ul {
         width: 25% !important;
         height: 100% !important;
         margin: 0 !important;
-        padding: 0 2% 2% !important; 
+        padding: 2% !important; 
+    }
+
+    .bd-header-announcement {
+        display: none !important;
     }
     
 }
@@ -209,8 +214,12 @@ section#daniel-clavijo-plourde ul {
         font-size: 18px !important;
     }
 
-    h5 {
+    h5, .sidebar > .title-section {
         font-size: 16px !important;
+    }
+
+    .sidebar > .subtitle-section {
+        font-size: 15px !important;
     }
 
     p {
