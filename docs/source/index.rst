@@ -158,7 +158,7 @@ Experiencia previa
 
     10/2019
 
-**Tésis de maestría** |link-thesis|, Sistemas Inteligentes (ITESM), PUE, MX.
+**Tesis de maestría** |link-thesis|, Sistemas Inteligentes (ITESM), PUE, MX.
 
 .. rst-class:: date-span
 
