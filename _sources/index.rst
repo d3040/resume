@@ -121,18 +121,28 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
    
    Universidad #4 de Latinoamérica y #1 de México `(QS ranking) <https://www.topuniversities.com/latin-america-central-america-rankings>`_.
 
+Líder de Operaciones
+""""""""""""""""""""
+
+.. rst-class:: date-span
+
+   05/2025 - Presente
+
+* Analista de datos para la toma estratégica de decisiones en el área de Admisiones.
+* Power User del CRM (Comercial, Becas y Selectividad) para la generación de reportes y tableros de seguimiento.
+* Facilitador del proceso de planeación, estrategia e inteligencia de mercados.
+* Coordinación del centro de contacto.
+
+
 Líder de Selectividad
 """""""""""""""""""""
 
 .. rst-class:: date-span 
 
-    06/2019 - Presente
+   06/2019 - 04/2025
 
 * Responsable de la admisión de candidatos de nuevo ingreso para los niveles de profesional y preparatoria para el Tec de Monterrey Campus Puebla.
 * Coordinación del equipo encargado de la gestión de solicitudes de admisión, profesores para la imparticación de talleres de familiarización y colaboradores certificados para la aplicación de exámenes de admisión. 
-* Sesiones semanales con el director del campus y directores de área para la toma estratégica de decisiones. 
-* Colaboración efectiva entre Selectividad y las áreas de Atracción y Becas.
-* Adaptación *paperless* del proceso de admisión durante la pandemia COVID 19.
 * Automatización y generación de reportes del embudo comercial.
 
 
@@ -141,7 +151,7 @@ Analista de datos comerciales
 
 .. rst-class:: date-span
 
-    12/2013 - 06/2019
+   12/2013 - 06/2019
 
 * Power User Comercial del CRM de Salesforce de la región Centro Sur encargado de la capacitación y uso en 5 campus y 12 sedes del Tec de Monterrey.
 * Creación de reportes y tableros, y supervisor de operación de call-center regional.
@@ -156,29 +166,29 @@ Experiencia previa
 
 .. rst-class:: date-span
 
-    10/2019
+   10/2019
 
 **Tesis de maestría** |link-thesis|, Sistemas Inteligentes (ITESM), PUE, MX.
 
 .. rst-class:: date-span
 
-    06/2019
+   06/2019
 
 **ISA Administrator**, T-Systems, PUE, MX.
 
 .. rst-class:: date-span
 
-    03/2012 - 12/2012
+   03/2012 - 12/2012
 
 **Desempeño Sobresaliente**, CENEVAL EGEL (Electrónica), MX.
 
 .. rst-class:: date-span
 
-    9/2011
+   9/2011
 
 **Prácticas profesionales**, Laguna Verde, VER, MX.
 
 .. rst-class:: date-span
 
-    08/2011 - 11/2011
+   08/2011 - 11/2011
 
