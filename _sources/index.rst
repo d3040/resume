@@ -98,9 +98,9 @@
       VOLUNTARIADO
 
    | Donador altruista de sangre
-   | 19+ donaciones de sangre
+   | 20+ donaciones de sangre
    
-   .. Última donación: 2024-12-19
+   .. Última donación: 2025-08-30
 
 *******************************************************************************
 Daniel Clavijo Plourde
