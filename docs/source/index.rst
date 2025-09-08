@@ -128,9 +128,8 @@ Líder de Operaciones
 
    05/2025 - Presente
 
-* Analista de datos para la toma estratégica de decisiones en el área de Admisiones.
-* Power User del CRM (Comercial, Becas y Selectividad) para la generación de reportes y tableros de seguimiento.
-* Facilitador del proceso de planeación, estrategia e inteligencia de mercados.
+* Data Analysis para la optimización de procesos y toma estratégica de decisiones.
+* Power User de Salesforce (CRM del área Comercial, Becas y Selectividad) para la generación de reportes y dashboards de seguimiento.
 * Coordinación del centro de contacto.
 
 
